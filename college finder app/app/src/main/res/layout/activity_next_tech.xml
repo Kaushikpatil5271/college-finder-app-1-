@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".technology">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Shri Sant Gadge Baba College Of Engineering and
+                                    Technology:- "
+                android:textSize="30dp"
+                android:textStyle="bold"
+                />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/img2"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SSGBCOET, Bhusawal is a well-established institute with Accreditation from NBA New Delhi, Approved by All India Council for Technical Education AICTE and Govt. of Maharashtra. An ISO 9001:2015 Certified Institute which has gained the status of an institute dedicated to spreading quality education among the student community and to conduct cutting-edge research that can make a positive change in the lives of the citizens. SSGBCOET continues to attract individuals of outstanding potential. At SSGBCOET they work on exciting projects that are industry standards.
+
+The institute offers Undergraduate and Postgraduate programs in Engineering. It has six full-fledged departments having five branches with faculty who are motivated with a quest to promote engineering and technical education. The faculty members are constantly training themselves by participating in and presenting papers at various national programs in their field of specialization."
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="for more information:-"
+                android:textStyle="bold"
+                />
+            <Button
+                android:id="@+id/kaus2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="clicked me-->"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="for more colleges:-"
+                android:textStyle="bold"
+                />
+            <Button
+                android:id="@+id/kaus1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="clicked all-->"
+                android:layout_gravity="center"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

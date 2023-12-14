@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".technology">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="    shivajirao.s.jondhale clg"
+                android:textSize="30dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/img"
+
+                 />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Established in the year 2007-08 with the intake capacity of 240 students. In 2010 got additional 120 intake. From the Year 2014-15 college got permission for M.E. in Construction Engineering and Management, Energy Resources and Management. The campus spread over 10 acres of land with beautiful buildings. The institute has Administrative office, Classrooms, well equipped laboratories, Drawing hall, Workshops and Centralized Library facilities."
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="for more information:-"
+                android:textStyle="italic"
+                android:textColor="@color/black"
+                android:textSize="20dp"/>
+            <Button
+                android:id="@+id/nextk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="clicked here"
+                android:textSize="5dp"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/next1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="next"
+                android:textSize="20dp"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">college finder</string>
+
+    <string name="linkbinary">For more detailed Explanation <a href="https://youtu.be/pYT9F8_LFTM">visit this link</a></string>
+    <string name="linkdijkstra">For more detailed Explanation <a href="https://youtu.be/XB4MIexjvY0">visit this link</a></string>
+    <string name="linkfloyd">For more detailed Explanation <a href="https://youtu.be/oNI0rf2P9gE">visit this link</a></string>
+    <string name="linkmerge">For more detailed Explanation <a href="https://youtu.be/mB5HXBb_HY8">visit this link</a></string>
+    <string name="linkinsertion">For more detailed Explanation <a href="https://youtu.be/yCxV0kBpA6M">visit this link</a></string>
+    <string name="linkselection">For more detailed Explanation <a href="https://youtu.be/9oWd4VJOwr0">visit this link</a></string>
+    <string name="linkgreedy">For more detailed Explanation <a href="https://youtu.be/oTTzNMHM05I">visit this link</a></string>
+    <string name="linkquick">For more detailed Explanation <a href="https://youtu.be/7h1s2SojIRw">visit this link</a></string>
+    <string name="linkkruskal">For more detailed Explanation <a href="https://youtu.be/EjVHtpWkIho">visit this link</a></string>
+    <string name="linkrabin">For more detailed Explanation <a href="https://youtu.be/oxd_Z1osgCk">visit this link</a></string>
+    <string name="exit">Exit</string>
+    <string name="message">Are you sure?</string>
+    <string name="logout">Logout</string>
+</resources>

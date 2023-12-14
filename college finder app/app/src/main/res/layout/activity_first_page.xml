@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".FirstPage">
+    <include layout="@layout/toolbar"/>
+
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="56dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/elevation_firstpage"
+        >
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="select your state"
+            android:textStyle="bold"
+            android:textSize="40dp"
+            android:layout_marginLeft="35dp"
+            android:textColor="@color/white"
+            android:layout_gravity="center_horizontal">
+        </TextView>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/apradesh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:width="250dp"
+        android:text="Andhra pradesh" />
+
+    <Button
+        android:id="@+id/asam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:width="250dp"
+        android:text="Assam" />
+
+    <Button
+        android:id="@+id/bihar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:width="250dp"
+        android:text="Bihar" />
+
+    <Button
+        android:id="@+id/jammu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:width="250dp"
+        android:text="Jammmu and kashmir" />
+    <Button
+        android:id="@+id/karnataka"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:width="250dp"
+        android:text="karnatak" />
+
+    <Button
+        android:id="@+id/kerala"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:width="250dp"
+        android:text="kerala" />
+    <Button
+        android:id="@+id/maharashtra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:width="250dp"
+        android:text="Maharashtra" />
+    <Button
+        android:id="@+id/goa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:width="250dp"
+        android:text="rajastan" />
+
+    <Button
+        android:id="@+id/tamil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:width="250dp"
+        android:text="Tamil nadu" />
+
+    <Button
+        android:id="@+id/uttar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:width="250dp"
+        android:text="uttar pradesh" />
+
+</LinearLayout>
