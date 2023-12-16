@@ -25,9 +25,18 @@ To run the app, you need to have latest version of Android SDK and a device or e
 
 # SCREENSHORTS
 Here are some screenshots of the app:
+
+
 ![Screenshot_20231216-114403](https://github.com/Kaushikpatil5271/college-finder-app-1-/assets/112011870/ab304d16-6c06-4283-bba0-79f52db0a230)
+
 ![Screenshot_20231216-105242](https://github.com/Kaushikpatil5271/college-finder-app-1-/assets/112011870/881d4da0-4f08-468f-a931-54aaafefeba9)
+
 ![Screenshot_20231216-105253](https://github.com/Kaushikpatil5271/college-finder-app-1-/assets/112011870/6c0bcd6f-78c7-470c-aa4f-149d9ba63c5c)
+
 ![Screenshot_20231216-114353](https://github.com/Kaushikpatil5271/college-finder-app-1-/assets/112011870/a0058268-5e42-4ce6-83eb-22769b487d4f)
+
 ![Screenshot_20231216-105312](https://github.com/Kaushikpatil5271/college-finder-app-1-/assets/112011870/0a6bcdde-fb7d-46eb-92e6-b9722ce6a90f)
+
 ![Screenshot_20231216-105346](https://github.com/Kaushikpatil5271/college-finder-app-1-/assets/112011870/639dda54-1443-4ab9-848b-0618567f871a)
+
+
