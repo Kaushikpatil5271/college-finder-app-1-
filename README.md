@@ -11,7 +11,8 @@ To install the app, you need to clone this repository and import it into Android
 step 1:- download android studio
 https://developer.android.com/studio/
 
-step 2:- clone these repository..
+step 2:- clone these repository:-
+
 git clone https://github.com/Kaushikpatil5271/college-finder-app-1-
 
 step 3:- wait some time to syn gradl files.
