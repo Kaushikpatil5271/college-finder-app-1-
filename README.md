@@ -39,4 +39,8 @@ Here are some screenshots of the app:
 
 ![Screenshot_20231216-105346](https://github.com/Kaushikpatil5271/college-finder-app-1-/assets/112011870/639dda54-1443-4ab9-848b-0618567f871a)
 
+# CONTACT
+
+kaushikpatil5271@gmail.com
+
 
